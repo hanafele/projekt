@@ -16,3 +16,5 @@ Kosovnica:
 
 
 Komentar avtorjev: misliva, da izboljšave niso potrebne. Vse dela po navodilih. 
+
+![Screenshot_20220504-114836_Gallery](https://user-images.githubusercontent.com/103569446/166660764-bb192ab4-9715-4b07-bce9-b23c517fe373.jpg)
