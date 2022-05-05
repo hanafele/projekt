@@ -15,7 +15,7 @@ Kosovnica:
 - žička 16x
 
 
-Komentar avtorjev: misliva, da izboljšave niso potrebne. Vse dela po navodilih. 
-
 ![Screenshot_20220504-114836_Gallery](https://user-images.githubusercontent.com/103569446/166660764-bb192ab4-9715-4b07-bce9-b23c517fe373.jpg)
 ![20220504_135003](https://user-images.githubusercontent.com/103569446/166870153-0860841c-2910-4ea3-bc58-9244d5c40964.jpg)
+
+Komentar avtorjev: misliva, da izboljšave niso potrebne. Vse dela po navodilih. 
