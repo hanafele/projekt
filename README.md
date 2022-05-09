@@ -8,12 +8,12 @@ Krmilje naj krmili pomik mize, to je v smeri gor - dol (gor - sveti zelena LED, 
 
 
 Kosovnica:
-- Arduino UNO 1x
-- tipka 4x
-- upor 1kΩ 4x
-- upor 220Ω 2x
-- LED lučka 2x
-- žička 16x
+- Arduino UNO 1x,
+- tipka 4x,
+- upor 1kΩ 4x,
+- upor 220Ω 2x,
+- LED lučka 2x,
+- žička 16x.
 
 
 ![20220504_135003](https://user-images.githubusercontent.com/103569446/166870153-0860841c-2910-4ea3-bc58-9244d5c40964.jpg)
