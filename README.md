@@ -22,7 +22,7 @@ Priredbeni seznam:
 
 Vezalna shema:
 
-<img width="1015" alt="Screenshot 2022-05-09 at 12 06 31" src="https://user-images.githubusercontent.com/103569446/167389778-b9e2649f-079d-4db6-98b3-22f81cc735f6.png">
+<img width="1093" alt="Screenshot 2022-05-23 at 11 42 21" src="https://user-images.githubusercontent.com/103569446/169791851-9f6f6204-7545-444e-9790-008b9deff784.png">
 
 Slika vezja:
 
