@@ -18,7 +18,7 @@ Kosovnica:
 
 Priredbeni seznam:
 
-<img width="1362" alt="Screenshot 2022-05-23 at 11 45 52" src="https://user-images.githubusercontent.com/103569446/169792403-c694a6d5-7a6a-42d6-9ec9-5a74df80cbcc.png">
+<img width="1379" alt="Screenshot 2022-05-23 at 11 47 00" src="https://user-images.githubusercontent.com/103569446/169792600-f0bc23f8-14ab-4c4e-95b1-1f3d232b7474.png">
 
 Vezalna shema:
 
